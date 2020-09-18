@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "291575112147",
+    "firebase_url": "https://piggy-bank-e597e.firebaseio.com",
+    "project_id": "piggy-bank-e597e",
+    "storage_bucket": "piggy-bank-e597e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291575112147:android:2fec6d0de86da437c48f26",
+        "android_client_info": {
+          "package_name": "com.barbosayuri.safepiggy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291575112147-s7bedtb1v6n1173ohjm81gjsfarfqga3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxd4wzlQ9AgG8kfPkYoEU8YuH_vz3HB_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291575112147-s7bedtb1v6n1173ohjm81gjsfarfqga3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
